@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Metaline 01",
+		"author": "Jan Adiputra",
+		"url": "https://raw.githubusercontent.com/JanAdiputra/metaline/master/Metaline01.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/JanAdiputra/metaline/master/Metaline01-thumb.jpg",
+		"downloadable": true,
+		"size": 232108,
+		"dimensions": "1440 x 2560 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Metaline 02",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/JanAdiputra/metaline/master/Metaline02.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/JanAdiputra/metaline/master/Metaline02-thumb.jpg",
+		"downloadable": true,
+		"size": 199147,
+		"dimensions": "1242 x 2208 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Metaline 03",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/JanAdiputra/metaline/master/Metaline03.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/JanAdiputra/metaline/master/Metaline03-thumb.jpg",
+		"downloadable": true,
+		"size": 909614,
+		"dimensions": "1537 x 2732 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Metaline 04",
+		"author": "Unknown",
+		"url": "https://raw.githubusercontent.com/JanAdiputra/metaline/master/Metaline04.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/JanAdiputra/metaline/master/Metaline04-thumb.jpg",
+		"downloadable": true,
+		"size": 815758,
+		"dimensions": "1440 x 2560 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+]
